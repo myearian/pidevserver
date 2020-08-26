@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/myearian/pidevserver/issues"
   },
-  "homepage": "https://github.com/myearian/pidevserver#readme"
+  "homepage": "https://github.com/myearian/pidevserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
